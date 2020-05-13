@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">passwordManagerApp</string>
+    <string name="generateNewPassword">Generate New Password</string>
+    <string name="mainMenu">Main Menu</string>
+    <string name="managePasswords">Manage Passwords</string>
+    <string name="title_activity_manage_passwords">managePasswords</string>
+    <string-array name="passwordCategoriesArray">
+        <item>Uncategorised</item>
+        <item>Shopping</item>
+        <item>Social Media</item>
+        <item>Email</item>
+        <item>Games</item>
+        <item>News/Reference</item>
+    </string-array>
+</resources>
